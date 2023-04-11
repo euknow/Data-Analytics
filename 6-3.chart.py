@@ -1,7 +1,7 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-!pip install plotly
+pip install plotly
 import plotly.express as px
 
 # https://raw.githubusercontent.com/huhshin/streamlit/master/data_financial.csv 읽어오기 
